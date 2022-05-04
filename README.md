@@ -1,0 +1,2 @@
+# string-session-generator
+StringSessionGenerator
